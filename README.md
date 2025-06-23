@@ -15,5 +15,5 @@ The objective of this task was to scan my local network to identify open ports a
 - Subnet: 192.168.56.0/24
   
 ##Command used:
-
+```bash
 nmap -sS 192.168.56.0/24
